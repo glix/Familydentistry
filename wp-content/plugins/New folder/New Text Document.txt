@@ -1,0 +1,15 @@
+<?php
+
+/*
+
+Plugin Name: My Awesome Email Plugin
+Plugin URI: http://myawesomewebsite.com
+Description: I created this plugin to rule the world via awesome WordPress email goodness
+Version: 1.0
+Author: Me
+Author URI: http://myself.me
+
+*/
+
+ 
+?>
